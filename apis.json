@@ -1,0 +1,47 @@
+{
+    "name": "Modica Global Connect",
+    "description": "Modica Group provides its partners and customers with Intelligent Messaging solutions, with offices and customers primarily in New Zealand, Australia, USA and Dominican Republic. We provide businesses with high availability, mission critical messaging ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1448-modica-global-connect.jpg",
+    "tags": [
+        "api not found",
+        "gateway",
+        "have api",
+        "isp",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/modica-global-connect\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Modica Global Connect",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1448-modica-global-connect.jpg",
+            "humanURL": "http:\/\/www.modicagroup.com\/mobile\/mobile-applications\/global-connect\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/modica-global-connect-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.modicagroup.com\/mobile\/mobile-applications\/global-connect\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sonic-mobile"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/modicagroup"
+        }
+    ]
+}
